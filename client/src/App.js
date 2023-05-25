@@ -18,7 +18,7 @@ import Admin from "scenes/admin";
 import Performance from "scenes/performance";
 
 function App() {
-  const apiKey = process.env.API_KEY;
+  const apiKey = process.env.REACT_APP_BASE_URL;
 console.log(apiKey);
   
   const mode = useSelector((state) => state.global.mode);
