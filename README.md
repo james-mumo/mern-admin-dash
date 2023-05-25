@@ -1,6 +1,6 @@
 # Simple Admin Dashboard
 
-![Dashboard Preview](dashboard-preview.png)
+![Dashboard Preview](merndash.png)
 
 ## Overview
 This is a simple admin dashboard built using the MERN stack (MongoDB, Express, React, Node.js). The dashboard provides a user-friendly interface for managing and visualizing data. It features both dark and light themes, utilizing Material-UI tables, Nivo charts, and maps.
